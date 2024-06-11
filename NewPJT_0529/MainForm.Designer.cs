@@ -218,9 +218,9 @@
             this.label4.Font = new System.Drawing.Font("Arial", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(12, 21);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(157, 24);
+            this.label4.Size = new System.Drawing.Size(132, 24);
             this.label4.TabIndex = 12;
-            this.label4.Text = "Manual Monitor";
+            this.label4.Text = "JOG Monitor";
             // 
             // TXT_Servo1Velocity
             // 

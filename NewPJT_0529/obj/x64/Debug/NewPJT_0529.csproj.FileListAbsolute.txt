@@ -32,3 +32,25 @@ C:\Users\230755\Desktop\강현구 자료\6. C언어\강현구\NewPJT_0529\NewPJT
 C:\Users\230755\Desktop\강현구 자료\6. C언어\강현구\NewPJT_0529\NewPJT_0529\obj\x64\Debug\NewPJT_0.A488DFBB.Up2Date
 C:\Users\230755\Desktop\강현구 자료\6. C언어\강현구\NewPJT_0529\NewPJT_0529\obj\x64\Debug\NewPJT_0529.exe
 C:\Users\230755\Desktop\강현구 자료\6. C언어\강현구\NewPJT_0529\NewPJT_0529\obj\x64\Debug\NewPJT_0529.pdb
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\bin\x64\Debug\NewPJT_0529.exe.config
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\bin\x64\Debug\NewPJT_0529.exe
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\bin\x64\Debug\NewPJT_0529.pdb
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\bin\x64\Debug\AdvancedMotionApi_CLRLib.dll
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\bin\x64\Debug\ApiBufferApi_CLRLib.dll
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\bin\x64\Debug\CompensationApi_CLRLib.dll
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\bin\x64\Debug\CoreMotionApi_CLRLib.dll
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\bin\x64\Debug\CyclicBufferApi_CLRLib.dll
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\bin\x64\Debug\EventApi_CLRLib.dll
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\bin\x64\Debug\IOApi_CLRLib.dll
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\bin\x64\Debug\LogApi_CLRLib.dll
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\bin\x64\Debug\UserMemoryApi_CLRLib.dll
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\bin\x64\Debug\WMX3Api_CLRLib.dll
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\obj\x64\Debug\NewPJT_0529.csproj.AssemblyReference.cache
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\obj\x64\Debug\NewPJT_0529.MonitorForm.resources
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\obj\x64\Debug\NewPJT_0529.MainForm.resources
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\obj\x64\Debug\NewPJT_0529.Properties.Resources.resources
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\obj\x64\Debug\NewPJT_0529.csproj.GenerateResource.cache
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\obj\x64\Debug\NewPJT_0529.csproj.CoreCompileInputs.cache
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\obj\x64\Debug\NewPJT_0529.csproj.CopyComplete
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\obj\x64\Debug\NewPJT_0529.exe
+C:\Users\dawni\Documents\SourceTreeTest\NewPJT_0529\obj\x64\Debug\NewPJT_0529.pdb
