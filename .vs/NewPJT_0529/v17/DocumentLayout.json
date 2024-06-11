@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\newpjt_0529\\monitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|solutionrelative:newpjt_0529\\monitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\newpjt_0529\\monitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|solutionrelative:newpjt_0529\\monitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\newpjt_0529\\thread\\servo1thread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|solutionrelative:newpjt_0529\\thread\\servo1thread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|c:\\users\\230755\\desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. c\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\newpjt_0529\\newpjt_0529\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|solutionrelative:newpjt_0529\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\newpjt_0529\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|solutionrelative:newpjt_0529\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\newpjt_0529\\gloval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|solutionrelative:newpjt_0529\\gloval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\newpjt_0529\\thread\\monitorthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|solutionrelative:newpjt_0529\\thread\\monitorthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\newpjt_0529\\color_and_text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|solutionrelative:newpjt_0529\\color_and_text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\newpjt_0529\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|solutionrelative:newpjt_0529\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\newpjt_0529\\thread\\servo2thread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|solutionrelative:newpjt_0529\\thread\\servo2thread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\newpjt_0529\\mainform_h.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B839BB73-927F-4154-90A6-D66EA3756040}|NewPJT_0529\\NewPJT_0529.csproj|solutionrelative:newpjt_0529\\mainform_h.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonitorForm.cs",
+              "DocumentMoniker": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\MonitorForm.cs",
+              "RelativeDocumentMoniker": "NewPJT_0529\\MonitorForm.cs",
+              "ToolTip": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\MonitorForm.cs*",
+              "RelativeToolTip": "NewPJT_0529\\MonitorForm.cs*",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:03:49.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonitorForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\MonitorForm.cs",
+              "RelativeDocumentMoniker": "NewPJT_0529\\MonitorForm.cs",
+              "ToolTip": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\MonitorForm.cs [\uB514\uC790\uC778]*",
+              "RelativeToolTip": "NewPJT_0529\\MonitorForm.cs [\uB514\uC790\uC778]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:16:19.665Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\MainForm.cs",
+              "RelativeDocumentMoniker": "NewPJT_0529\\MainForm.cs",
+              "ToolTip": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\MainForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "NewPJT_0529\\MainForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T05:23:38.395Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gloval.cs",
+              "DocumentMoniker": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\Gloval.cs",
+              "RelativeDocumentMoniker": "NewPJT_0529\\Gloval.cs",
+              "ToolTip": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\Gloval.cs",
+              "RelativeToolTip": "NewPJT_0529\\Gloval.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:07:04.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\MainForm.cs",
+              "RelativeDocumentMoniker": "NewPJT_0529\\MainForm.cs",
+              "ToolTip": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\MainForm.cs",
+              "RelativeToolTip": "NewPJT_0529\\MainForm.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:28:27.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Servo1Thread.cs",
+              "DocumentMoniker": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\Thread\\Servo1Thread.cs",
+              "RelativeDocumentMoniker": "NewPJT_0529\\Thread\\Servo1Thread.cs",
+              "ToolTip": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\Thread\\Servo1Thread.cs",
+              "RelativeToolTip": "NewPJT_0529\\Thread\\Servo1Thread.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:09:01.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MonitorThread.cs",
+              "DocumentMoniker": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\Thread\\MonitorThread.cs",
+              "RelativeDocumentMoniker": "NewPJT_0529\\Thread\\MonitorThread.cs",
+              "ToolTip": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\Thread\\MonitorThread.cs",
+              "RelativeToolTip": "NewPJT_0529\\Thread\\MonitorThread.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:14:33.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Color_And_Text.cs",
+              "DocumentMoniker": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\Color_And_Text.cs",
+              "RelativeDocumentMoniker": "NewPJT_0529\\Color_And_Text.cs",
+              "ToolTip": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\Color_And_Text.cs",
+              "RelativeToolTip": "NewPJT_0529\\Color_And_Text.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:29:56.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\Program.cs",
+              "RelativeDocumentMoniker": "NewPJT_0529\\Program.cs",
+              "ToolTip": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\Program.cs",
+              "RelativeToolTip": "NewPJT_0529\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:09:16.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Servo2Thread.cs",
+              "DocumentMoniker": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\Thread\\Servo2Thread.cs",
+              "RelativeDocumentMoniker": "NewPJT_0529\\Thread\\Servo2Thread.cs",
+              "ToolTip": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\Thread\\Servo2Thread.cs",
+              "RelativeToolTip": "NewPJT_0529\\Thread\\Servo2Thread.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAEIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:09:14.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm_h.cs",
+              "DocumentMoniker": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\MainForm_h.cs",
+              "RelativeDocumentMoniker": "NewPJT_0529\\MainForm_h.cs",
+              "ToolTip": "C:\\Users\\230755\\Desktop\\\uAC15\uD604\uAD6C \uC790\uB8CC\\6. C\uC5B8\uC5B4\\\uAC15\uD604\uAD6C\\NewPJT_0529\\NewPJT_0529\\MainForm_h.cs",
+              "RelativeToolTip": "NewPJT_0529\\MainForm_h.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAALYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:25:33.437Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
